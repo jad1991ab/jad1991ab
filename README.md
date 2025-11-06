@@ -30,12 +30,6 @@ I love exploring new technologies and sharing knowledge through coding and YouTu
 - 🎥 Creating content on YouTube to share coding tips and tutorials  
 - 🌱 Always learning something new in tech  
 
----
-
-### 📈 GitHub Stats
-
-![Jad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadalkhateeb&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jadalkhateeb&layout=compact&theme=tokyonight)
 
 ---
 
